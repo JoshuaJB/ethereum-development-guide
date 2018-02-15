@@ -30,6 +30,6 @@ class Application extends React.Component {
 
 window.addEventListener('load', () => {
   const mainElement = document.getElementById('main');
-  window.contractAddress = mainElement.getAttribute('data-contract-address');
+  window.contractAddress = window.prompt("Please enter Ethereum contract address:", mainElement.getAttribute('data-contract-address'));
   ReactDOM.render(<Application/>, mainElement);
 });
