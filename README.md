@@ -38,7 +38,7 @@ Now click to copy your account's address.
 
 <img src="images/metamask-copy-address.png" width="50%">
 
-Next, navigate to [http://faucet.ropsten.be:3001/](http://faucet.ropsten.be:3001/) where you can enter the address to request testnet ETH.
+Next, navigate to [http://faucet.metamask.io/](http://faucet.metamask.io/) where you can enter the address to request testnet ETH.
 
 Soon afterward, the balance of your Metamask account should increase by 3 ETH. Note that if you switch Metamask back to the main network, the balance is still 0; the account only receives money on the test network.
 
