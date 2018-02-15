@@ -38,9 +38,9 @@ Now click to copy your account's address.
 
 <img src="images/metamask-copy-address.png" width="50%">
 
-Next, navigate to [http://faucet.metamask.io/](http://faucet.metamask.io/) to request testnet ETH.
+Next, navigate to [http://faucet.metamask.io/](http://faucet.metamask.io/) and click "request 1 ether from faucet" to request testnet ETH.
 
-Soon afterward, the balance of your Metamask account should increase by 3 ETH. Note that if you switch Metamask back to the main network, the balance is still 0; the account only receives money on the test network.
+Soon afterward, the balance of your Metamask account should increase by 1 ETH. Note that if you switch Metamask back to the main network, the balance is still 0; the account only receives money on the test network.
 
 One interesting and defining characteristic of blockchains is that transactions are completely public. You can even see the transaction that the faucet sent to your account by going to the [Etherscan block explorer](https://ropsten.etherscan.io/) and searching for your address in the search bar.
 
