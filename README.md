@@ -46,7 +46,7 @@ One interesting and defining characteristic of blockchains is that transactions 
 
 ## Using a dApp
 
-Now we're ready to actually use a dApp. I have deployed one [here](https://jimpo.github.io/ethereum-development-guide/the-button/) inspired by Reddit's [The Button](https://en.wikipedia.org/wiki/The_Button_(Reddit)) experiment.
+Now we're ready to actually use a dApp. I have deployed one [here](https://joshuajb.github.io/ethereum-development-guide/the-button/) inspired by Reddit's [The Button](https://en.wikipedia.org/wiki/The_Button_(Reddit)) experiment.
 
 The idea is that there is a countdown timer and every time someone presses the button, the timer resets. If the timer reaches 0, however, the button is frozen for the rest of time and the experiment ends. Each Ethereum account may only press the button once, and depending on how close the timer is to 0 when a user presses it, he or she will be rewarded with their screen showing a certain color, which translates directly into street cred. So go ahead, try it out.
 
